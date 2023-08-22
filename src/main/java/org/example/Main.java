@@ -7,8 +7,8 @@ public class Main {
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.println("In Hamburg sagt man: Moin, Moin");
-        System.out.println("fox was here");
 
+        System.out.println("fox was here");
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 

@@ -12,6 +12,7 @@ public class Car
         System.out.println("blubbbb");
     }
 
+    public void sub(){System.out.println("test2");}
     public void add()
     {
         System.out.println("test");

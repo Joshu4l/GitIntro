@@ -11,4 +11,9 @@ public class Car
     {
         System.out.println("blubbbb");
     }
+
+    public void add()
+    {
+        System.out.println("test");
+    }
 }

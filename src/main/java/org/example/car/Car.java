@@ -6,4 +6,9 @@ public class Car
     {
         System.out.println("brrrr");
     }
+
+    public static void stopEngine()
+    {
+        System.out.println("blub");
+    }
 }
